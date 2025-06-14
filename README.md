@@ -1,4 +1,4 @@
-# 👨‍💻 Glen - Network Engineer | Software Developer | Cybersecurity | DevOps
+# 👨‍💻 Network Engineer | Software Developer | Cybersecurity | DevOps
 
 I'm a Network Engineer based in Kenya, passionate about optimizing systems and empowering users. I specialize in **network administration**, **hardware/software support**, and **web development**, with a track record of real-world results across educational and non-profit sectors.
 
