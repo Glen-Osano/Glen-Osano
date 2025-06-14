@@ -1,4 +1,4 @@
-# 👨‍💻 Glen Osano – Full Stack Developer | Network Engineer | Data Analyst | Cybersecurity | IT Consultant 
+# 👨‍💻 Glen Osano – Full Stack Developer | Network Engineer | Cybersecurity
 
 I'm a Network Engineer based in Kenya, passionate about optimizing systems and empowering users. I specialize in **network administration**, **hardware/software support**, and **web development**, with a track record of real-world results across educational and non-profit sectors.
 
