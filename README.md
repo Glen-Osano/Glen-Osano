@@ -32,12 +32,12 @@ Hi there! I'm an IT Officer based in Kenya, passionate about optimizing systems 
 
 | Project | Description | Links/Stack |
 |--------|-------------|------------|
-| **My ICT School** | Brooks ICT  MultiVerse is My online ICT School | [🌐 Visit Website](https://brooksog.github.io/Brooksictmultiverse/) |
-| **Ambulance Management System** | Custom-built Ambulance management system for MOHI | [🌐 View Code](https://github.com/BrooksOG/ambulance-management-system) |
+| **My ICT School** | Brooks ICT  MultiVerse is My online ICT School | [🌐 Visit Website](https://glen-osano.github.io/Brooksictmultiverse/) |
+| **Ambulance Management System** | Custom-built Ambulance management system for MOHI | [🌐 View Code](https://github.com/Glen-Osano/ambulance-management-system) |
 | **Student Voting System** | Used in KCSE elections; featured in regional science fair | HTML, JS |
 | **IT Inventory System** | Custom-built asset management tool | HTML, PHP, JS |
 | **ICT Club Website** | For Oruba Girls ICT Club|[🌐 Visit Website](https://glenict.freevar.com/)|
-| **Portfolio Site** | My online resume and showcase | [🌐 Visit Website](https://brooksog.github.io/Brooksictmultiverse/) |
+| **Portfolio Site** | My online resume and showcase | [🌐 Visit Website](https://github.com/Glen-Osano) |
 
 ---
 
@@ -55,7 +55,7 @@ Hi there! I'm an IT Officer based in Kenya, passionate about optimizing systems 
 - 📧 Email: osanoglen@gmail.com  
 - 💼 LinkedIn: [Glen Osano](https://www.linkedin.com/in/glen-osano-96bb77182/)  
 - 🐦 Twitter/X: [@bimultiverse](https://x.com/bimultiverse?t=WYMchsftsaiZOo-usk4rcw&s=09)  
-- 🌐 Website: [Brooks ICT School](https://brooksog.github.io/Brooksictmultiverse/)
+- 🌐 Website: [Brooks ICT School](https://glen-osano.github.io/Brooksictmultiverse/)
 
 ---
 
