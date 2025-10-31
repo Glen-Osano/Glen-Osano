@@ -51,8 +51,8 @@ I'm a Network Engineer based in Kenya, passionate about optimizing systems and e
 
 ## 🎥 Popular YouTube Videos
 
-- 🌐 [How to setup e-pos thermal receipt printer tep 300](https://youtu.be/bR1j6In0c_0?si=7kltYBeXhXCoVobR)
 - 🖥️ [Save Cisco project as a picture | Cisco Packet Tracer](https://youtu.be/w-uzBGPZq_Y?si=4v3eBYtKDPHzziMU)
+- 🌐 [How to setup e-pos thermal receipt printer tep 300](https://youtu.be/bR1j6In0c_0?si=7kltYBeXhXCoVobR)
 - 💡 [How To Separate Numbers From Text || Extract Numbers from Text in Google Sheet](https://youtu.be/7SjYd7aayXk?si=PUkdcG323vVsgczg)
 - 💡 [Microsoft.Jet.OLEDB.4.0 provider is not registered on the local machine | SOLVED](https://youtu.be/2xVcxYElVkY?si=0KjUhVwmxAhW9_90)
 - 🖥️ [Web Scrape in Google Sheets: IMPORTHTML | How to import data from web to Google sheet](https://youtu.be/hdDR9GWg7x0?si=FqAsln9x2bvndLO2)
