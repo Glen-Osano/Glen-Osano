@@ -44,7 +44,7 @@ I'm a Network Engineer based in Kenya, passionate about optimizing systems and e
 | **Ambulance Management System** | Custom-built Ambulance management system for MOHI | [🌐 View Code](https://github.com/Glen-Osano/ambulance-management-system) |
 | **Student Voting System** | Used in KCSE elections; featured in regional science fair | HTML, JS |
 | **IT Inventory System** | Custom-built asset management tool | HTML, PHP, JS |
-| **ICT Club Website** | For Oruba Girls ICT Club|[🌐 Visit Website](https://glenict.freevar.com/)|
+| **ICT Club Website** | For Oruba Girls ICT Club|[🌐 Visit Website](http://glenict.freevar.com/)|
 | **Portfolio Site** | My online resume and showcase | [🌐 Visit Website](https://github.com/Glen-Osano) |
 
 ---
