@@ -24,7 +24,8 @@ I'm a Network Engineer based in Kenya, passionate about optimizing systems and e
 ---
 
 ## 📜 Certifications & Training
-
+- 🌍 CCNA – Cisco Academy *(2026)*
+- 🔐 Power BI for Data Visualization – LHF *(2026)*  
 - 🛡️ Data Protection – Strathmore University *(2025)*
 - 🛡️ Cisco Ethical Hacker – USIU Academy *(2025)*  
 - ☁️ Cloud & Network Security – Cyber Shujaa *(2024)*  
